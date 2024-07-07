@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 1/The While Statement.md",
+                "file": "Chapter 2/Exercises Section 2.1.3.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 1/The While Statement.md",
+                "file": "Chapter 2/Exercises Section 2.1.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 1/The While Statement.md",
+                "file": "Chapter 2/Exercises Section 2.1.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 1/The While Statement.md"
+                "file": "Chapter 2/Exercises Section 2.1.3.md"
               }
             }
           }
@@ -161,8 +161,12 @@
   },
   "active": "45d4ae43bf0ee880",
   "lastOpenFiles": [
-    "Chapter 1/Comments.md",
+    "Chapter 2/Exercises Section 2.1.1.md",
+    "Chapter 2/Exercises Section 2.1.2.md",
+    "Chapter 2/Exercises Section 2.1.3.md",
     "Chapter 1/The While Statement.md",
+    "Chapter 2",
+    "Chapter 1/Comments.md",
     "Chapter 1/Input And Output.md",
     "Variable.md",
     "Welcome.md",
