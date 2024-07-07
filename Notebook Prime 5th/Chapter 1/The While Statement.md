@@ -1,9 +1,12 @@
+# The While Statement
 
-# Overview
+___
+
+## Overview
 
 The while statement is an loop whose execute the code inside it until a certain condition meets and breaks the loop. Separated in two different loops the **definitive** and the **infinite**. both of them been defined by what is the condition.
 
-## Definitive While
+### Definitive While
 
 The definitive while is defined by it's conditional, having an explicit condition. Meaning that something has to be fulfilled to be stopped:
 
@@ -38,7 +41,7 @@ The output will be:
 10
 ```
 
-## Infinite While
+### Infinite While
 
 The infinite while is defined by it's conditional, having an `true` as condition. Meaning that something has to break the while loop using the `break` keyword:
 

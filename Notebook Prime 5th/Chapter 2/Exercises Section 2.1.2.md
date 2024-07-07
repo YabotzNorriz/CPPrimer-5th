@@ -1,3 +1,6 @@
+# Exercises Section 2.1.2
+
+___
 
 **Exercise 2.3:** What output will the following code produce?
 

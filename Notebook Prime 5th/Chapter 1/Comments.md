@@ -1,5 +1,8 @@
+# Comments
 
-# Overview
+___
+
+## Overview
 
 Comments are a thing that the compiler will simple ignore when compiling the program. Generally they are used to guide the programmer(s) to know what's happening and guide them trough the code.
 
