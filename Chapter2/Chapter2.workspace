@@ -28,6 +28,8 @@
       <Project Name="Section2.1.3-Exercise2.8" ConfigName="Debug"/>
       <Project Name="Section2.2.1-Exercise2.9" ConfigName="Debug"/>
       <Project Name="Section2.2.1-Exercise2.10" ConfigName="Debug"/>
+      <Project Name="Section2.2.4-Exercise2.13" ConfigName="Debug"/>
+      <Project Name="Section2.2.4-Exercise2.14" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -46,6 +48,8 @@
       <Project Name="Section2.1.3-Exercise2.8" ConfigName="Release"/>
       <Project Name="Section2.2.1-Exercise2.9" ConfigName="Release"/>
       <Project Name="Section2.2.1-Exercise2.10" ConfigName="Release"/>
+      <Project Name="Section2.2.4-Exercise2.13" ConfigName="Release"/>
+      <Project Name="Section2.2.4-Exercise2.14" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
