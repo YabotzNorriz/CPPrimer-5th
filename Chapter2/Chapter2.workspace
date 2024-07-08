@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Chapter2" Database="" Version="10000" SWTLW="Yes">
+  <WorkspaceParserMacros/>
+  <WorkspaceParserPaths/>
+  <Project Name="Section2.1.2-Exercise2" Path="Section2.1.2-Exercise2.3/Section2.1.2-Exercise2.project" Active="No"/>
+  <Project Name="Section2.1.2-Exercise2" Path="Section2.1.2-Exercise2.4/Section2.1.2-Exercise2.project" Active="No"/>
+  <Project Name="Section2.1.3-Execise2" Path="Section2.1.3-Execise2.7/Section2.1.3-Execise2.project" Active="No"/>
+  <Project Name="Section2.1.3-Exercise2" Path="Section2.1.3-Exercise2.6/Section2.1.3-Exercise2.project" Active="No"/>
+  <Project Name="Section2.1.3-Exercise2" Path="Section2.1.3-Exercise2.7/Section2.1.3-Exercise2.project" Active="No"/>
+  <Project Name="Section2.1.3-Exercise2" Path="Section2.1.3-Exercise2.8/Section2.1.3-Exercise2.project" Active="No"/>
+  <Project Name="Section2.2.1-Exercise2" Path="Section2.2.1-Exercise2.9/Section2.2.1-Exercise2.project" Active="No"/>
+  <Project Name="Section2.2.1-Exercise2" Path="Section2.2.1-Exercise2.10/Section2.2.1-Exercise2.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Section2.1.2-Exercise2.3" ConfigName="Debug"/>
+      <Project Name="Section2.1.2-Exercise2.4" ConfigName="Debug"/>
+      <Project Name="Section2.1.3-Exercise2.6" ConfigName="Debug"/>
+      <Project Name="Section2.1.3-Exercise2.7" ConfigName="Debug"/>
+      <Project Name="Section2.1.3-Exercise2.8" ConfigName="Debug"/>
+      <Project Name="Section2.2.1-Exercise2.9" ConfigName="Debug"/>
+      <Project Name="Section2.2.1-Exercise2.10" ConfigName="Debug"/>
+      <Project Name="Section2.1.2-Exercise2.3" ConfigName="Debug"/>
+      <Project Name="Section2.1.2-Exercise2.4" ConfigName="Debug"/>
+      <Project Name="Section2.1.3-Execise2.7" ConfigName="Debug"/>
+      <Project Name="Section2.1.3-Exercise2.6" ConfigName="Debug"/>
+      <Project Name="Section2.1.3-Exercise2.7" ConfigName="Debug"/>
+      <Project Name="Section2.1.3-Exercise2.8" ConfigName="Debug"/>
+      <Project Name="Section2.2.1-Exercise2.9" ConfigName="Debug"/>
+      <Project Name="Section2.2.1-Exercise2.10" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Section2.1.2-Exercise2.3" ConfigName="Release"/>
+      <Project Name="Section2.1.2-Exercise2.4" ConfigName="Release"/>
+      <Project Name="Section2.1.3-Exercise2.6" ConfigName="Release"/>
+      <Project Name="Section2.1.3-Exercise2.7" ConfigName="Release"/>
+      <Project Name="Section2.1.3-Exercise2.8" ConfigName="Release"/>
+      <Project Name="Section2.2.1-Exercise2.9" ConfigName="Release"/>
+      <Project Name="Section2.2.1-Exercise2.10" ConfigName="Release"/>
+      <Project Name="Section2.1.2-Exercise2.3" ConfigName="Release"/>
+      <Project Name="Section2.1.2-Exercise2.4" ConfigName="Release"/>
+      <Project Name="Section2.1.3-Execise2.7" ConfigName="Release"/>
+      <Project Name="Section2.1.3-Exercise2.6" ConfigName="Release"/>
+      <Project Name="Section2.1.3-Exercise2.7" ConfigName="Release"/>
+      <Project Name="Section2.1.3-Exercise2.8" ConfigName="Release"/>
+      <Project Name="Section2.2.1-Exercise2.9" ConfigName="Release"/>
+      <Project Name="Section2.2.1-Exercise2.10" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
