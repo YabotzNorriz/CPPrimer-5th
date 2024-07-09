@@ -1,1 +1,0 @@
-../build-Debug/Section1_6-TheBookstoreProgram/main.cpp.o
